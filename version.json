@@ -1,9 +1,9 @@
 {
   "name": "Arcanum",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "date": "2026-11-02",
-  "apkUrl": "https://github.com/bdbais/arcanum-releases/releases/download/v1.0.0/Arcanum-1.0.0.apk",
+  "apkUrl": "https://github.com/bdbais/arcanum-releases/releases/download/v1.2.0/Arcanum-1.2.0.apk",
   "latestApkUrl": "https://github.com/bdbais/arcanum-releases/releases/latest/download/Arcanum.apk",
   "siteUrl": "https://arcanum.bais.info",
-  "notes": "- Prima versione: tavolo per lettrice e consultante, chat, voce e video, 22 Arcani Maggiori con effetti, interpretazione e valutazione, archivio letture con consenso, donazioni e aggiornamenti automatici."
+  "notes": "- Account con email o Google, foto profilo o arcano come immagine, dati scaricabili ed eliminabili.\n- Profili pubblici delle lettrici, follower e richieste di lettura.\n- Valutazioni nate solo da letture vere: la lettrice sceglie quali commenti mostrare, la media le conta tutte.\n- La lettrice IA, con un nome diverso per ogni lingua preso dalla tradizione: Morgana, Morgan, Meiga, Moura, Mélusine, Veleda, Vasilisa, Mavka, Himiko, Xuannü, Zarqa.\n- Si è avverata? Anche mesi dopo, il riscontro della realtà sulle letture.\n- Segnalazione di abusi e feedback sull’app.\n- Letture anonimizzate prima di essere salvate; invito a usare pseudonimi.\n- Sezione «Tra scienza e magia»."
 }
