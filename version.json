@@ -1,5 +1,9 @@
 {
   "name": "Arcanum",
-  "version": "0.0.0",
-  "notes": "In preparazione."
+  "version": "1.0.0",
+  "date": "2026-11-02",
+  "apkUrl": "https://github.com/bdbais/arcanum-releases/releases/download/v1.0.0/Arcanum-1.0.0.apk",
+  "latestApkUrl": "https://github.com/bdbais/arcanum-releases/releases/latest/download/Arcanum.apk",
+  "siteUrl": "https://arcanum.bais.info",
+  "notes": "- Prima versione: tavolo per lettrice e consultante, chat, voce e video, 22 Arcani Maggiori con effetti, interpretazione e valutazione, archivio letture con consenso, donazioni e aggiornamenti automatici."
 }
